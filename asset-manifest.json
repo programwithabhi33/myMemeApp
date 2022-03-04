@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myMemeApp/static/css/main.3fa09544.css",
+    "main.js": "/myMemeApp/static/js/main.6cfde1be.js",
+    "static/js/787.bc33f9db.chunk.js": "/myMemeApp/static/js/787.bc33f9db.chunk.js",
+    "static/media/loading.gif": "/myMemeApp/static/media/loading.d1b56fc118aaaece1373.gif",
+    "index.html": "/myMemeApp/index.html",
+    "main.3fa09544.css.map": "/myMemeApp/static/css/main.3fa09544.css.map",
+    "main.6cfde1be.js.map": "/myMemeApp/static/js/main.6cfde1be.js.map",
+    "787.bc33f9db.chunk.js.map": "/myMemeApp/static/js/787.bc33f9db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fa09544.css",
+    "static/js/main.6cfde1be.js"
+  ]
+}
